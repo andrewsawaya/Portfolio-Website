@@ -40,6 +40,8 @@ Table of contents
 
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900');
 @import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800,900');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700');
 
 /* ===================================
     Reset
@@ -79,6 +81,7 @@ ul, ol, dl {list-style-position: outside; margin-bottom: 25px}
 /* font family */
 .alt-font {font-family: 'Montserrat', sans-serif; font-weight: 500}
 .main-font {font-family: 'Roboto', sans-serif;}
+.heading-font {font-family: 'Source Serif Pro', serif}
 
 /* heading */
 h1, h2, h3, h4, h5, h6 {margin:0 0 25px; padding:0; letter-spacing: 0; font-weight: 400;}
